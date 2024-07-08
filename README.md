@@ -15,6 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+// git clone https://github.com/Pinedle/dart.appFrontend_flutter.git
+// cd dart.appFrontend_flutter
 // flutter pub get
 // flutter run
